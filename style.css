@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(222,184,135);
+    
+    
+}
+.container {
+  position: relative; 
+  font-size: 40px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(16, 1fr);
+  grid-template-rows: repeat(16, 1fr);
+  width: 960px;
+  height: 960px;
+  background:blanchedalmond;
+  justify-content: center;
+  align-content: center;
+  background-color: RGB(160,82,45);
+  margin: auto;
+  
+}
+
